@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597317324603",
+    "project_id": "fantasy-prem-774d6",
+    "storage_bucket": "fantasy-prem-774d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597317324603:android:c93b7c914c79091039711e",
+        "android_client_info": {
+          "package_name": "com.example.fpl_predictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhjOOKaeLut7FE0uT5bEGBxzBnDfVioA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
